@@ -1,2 +1,2 @@
 # Portfolio-Ciberseguranca
-Meu portfólio profissional de cibersegurança.
+Sou um entusiasta da cibersegurança, com uma sólida base em raciocínio lógico e programação, desenvolvida por meio de anos de estudo em Ciência da Computação e prática de xadrez. Acredito que, com disciplina e liderança, posso trazer métodos de segurança concretos para ajudar as organizações a se protegerem contra ameaças e violações de dados, garantindo a integridade de seus ativos e a confiança de seus clientes.
